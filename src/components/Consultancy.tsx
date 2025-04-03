@@ -23,7 +23,7 @@ const Consultancy = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Our Consultancy</h2>
           <div className="w-24 h-1 bg-blue-600 mx-auto mb-8"></div>
           <p className="max-w-3xl mx-auto text-gray-600 text-lg">
-            Industry & Subject Matter Experts, having cumulative experience of nearly 4 decades under their belt, backs IKON Consultancy Services. During their respective career, they have Designed, Developed and Implemented solutions across industries, company sizes and technology environments.
+            Industry & Subject Matter Experts, having cumulative experience of nearly 4 decades under their belt, backs Infinity Consultancy Services. During their respective career, they have Designed, Developed and Implemented solutions across industries, company sizes and technology environments.
           </p>
         </div>
 

@@ -6,19 +6,19 @@ import { Button } from "@/components/ui/button";
 const Products = () => {
   const products = [
     {
-      name: "IKONDocuM",
+      name: "Infinity DocuM",
       stars: 3,
-      description: "IKONDocuM is conceptualized by the Team of Subject Matter Experts, having an experience of more than 4 Decades in managing Records and Document. The Product is crafted after extensive Market Research into various Segment and Verticals Records and Document Management Pain Areas and suitably designed to provide solutions for those."
+      description: "Infinity DocuM is conceptualized by the Team of Subject Matter Experts, having an experience of more than 4 Decades in managing Records and Document. The Product is crafted after extensive Market Research into various Segment and Verticals Records and Document Management Pain Areas and suitably designed to provide solutions for those."
     },
     {
-      name: "IKONRecoM",
+      name: "Infinity RecoM",
       stars: 3,
-      description: "IKONRecoM is a unique and robust Software Solution to help you manage your Hard copy Records and Documents in the most effective and professional manner to meet the challenges of Compliance, Risk Management & Business Continuity, while facilitating a Secure environment with Access Audit Trails for your critical information."
+      description: "Infinity RecoM is a unique and robust Software Solution to help you manage your Hard copy Records and Documents in the most effective and professional manner to meet the challenges of Compliance, Risk Management & Business Continuity, while facilitating a Secure environment with Access Audit Trails for your critical information."
     },
     {
-      name: "IKONDoeS",
+      name: "Infinity DoeS",
       stars: 3,
-      description: "IKONDoeS is suitable for any Enterprise which is considering to efficiently Create, Edit Review, Manage & Distribute the business documents. It enables organizations to regulate and manage the Creation and Review of business documents and make them available as online information."
+      description: "Infinity DoeS is suitable for any Enterprise which is considering to efficiently Create, Edit Review, Manage & Distribute the business documents. It enables organizations to regulate and manage the Creation and Review of business documents and make them available as online information."
     }
   ];
 

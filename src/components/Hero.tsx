@@ -10,7 +10,7 @@ const Hero = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-              IKON BPS - Document Management System (DMS)
+              Infinity BPS - Document Management System (DMS)
             </h1>
             <p className="text-gray-600 mb-8 text-lg">
               The Global Digital Universe is growing exponentially and is doubling in every 2 years and is expected to touch 44 Zetabytes(ZB) or 44 Trillion Gigabytes (GBs) by year 2020. The Indian Digital Universe is growing at a similar space and is expected to touch 2.8 ZB by year 2020.
@@ -70,7 +70,7 @@ const Hero = () => {
               Your search for a reliable partner for an End to End Solution ends here.
             </p>
             <p className="text-base text-center text-gray-600 mt-4">
-              IKON Team, are the subject matter experts having more than 4 decades of collective experience in the field of Records & Document Management across diversified segment. The expertise varies from highly sensitive Defense Sector, Central & State Government, Telecom, Banking, NBFC, Insurance, Pharmaceutical, Healthcare, Diagnostics, Media, Legal, IT, ITeS and BPO.
+              Infinity Team, are the subject matter experts having more than 4 decades of collective experience in the field of Records & Document Management across diversified segment. The expertise varies from highly sensitive Defense Sector, Central & State Government, Telecom, Banking, NBFC, Insurance, Pharmaceutical, Healthcare, Diagnostics, Media, Legal, IT, ITeS and BPO.
             </p>
           </div>
         </div>

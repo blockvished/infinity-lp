@@ -4,17 +4,17 @@ import { ChevronLeft, ChevronRight, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "The document management system from IKON BPS transformed how we handle our data. The efficiency has improved dramatically.",
+    quote: "The document management system from Infinity BPS transformed how we handle our data. The efficiency has improved dramatically.",
     author: "John Smith",
     position: "CIO, Financial Services Company"
   },
   {
-    quote: "We've been able to reduce our document processing time by 60% since implementing IKON's solutions. Their team is responsive and knowledgeable.",
+    quote: "We've been able to reduce our document processing time by 60% since implementing Infinity's solutions. Their team is responsive and knowledgeable.",
     author: "Sarah Johnson",
     position: "Operations Director, Healthcare Provider"
   },
   {
-    quote: "The consultancy services provided by IKON helped us set up a robust document management workflow that meets all our regulatory requirements.",
+    quote: "The consultancy services provided by Infinity helped us set up a robust document management workflow that meets all our regulatory requirements.",
     author: "Rajiv Mehta",
     position: "Compliance Manager, Insurance Company"
   }
